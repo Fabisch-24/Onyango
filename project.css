@@ -1,0 +1,82 @@
+
+head {
+	font-size: 20px;
+    margin:0;
+    padding: 0
+
+ }
+ #body{
+   font-size: 100%
+   padding: 0px;
+   margin: 0
+   background-color: rgb(050,050,000);
+   font-family: sans-serif;
+
+
+
+ }
+ .h{font-size: x-large;
+ 	color: red;
+ 	text-align: center;
+ 	text-decoration: blink;
+ 	text-transform: uppercase;
+
+ }
+
+
+#h2{font-size: 200%; 
+	color:#fff;
+	text-align: center;
+
+}
+
+#navbar{
+	
+	background-color: #ffffff;
+	text-align: right;
+	padding: 20px;
+	text-decoration: blink;
+
+
+}
+#navbar li{
+	display: inline;
+	padding: 50px;
+	font-size: 20px;
+
+
+
+}
+.handles{
+	padding-bottom: 10px;
+	float: right;
+	border: 5px solid lightblue;
+}
+a:hover {
+	color: red;
+
+}
+.copyright{
+	text-align: center;
+	font-size: 25px;
+}
+#mainfooter{
+	background: magenta;
+}
+
+  #navbar li:hover{
+  	background:green;
+  	padding: 10px;
+  }
+
+  .about{
+  	box-sizing: border-box;
+  }
+ .table tr:nth-child(odd){
+ 	background-color: magenta;
+
+ }
+ #animation{
+ 	animation: move 200s linear alternate
+ 	infinite;
+ }

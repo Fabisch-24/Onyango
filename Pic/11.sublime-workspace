@@ -1,0 +1,194 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"proje",
+				"project"
+			],
+			[
+				"l",
+				"link\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/MUASYA/Sublime Text 3/Kucsa",
+		"/C/Users/david/OneDrive/Desktop/Omondi/blobhttpsweb.whatsapp.coma81b589e-6a81-4ae5-ad3a-291581dad1df.URL",
+		"/D/MUASYA/BIT 202/dave/Home.html",
+		"/D/MUASYA/BIT 202/html/dave.html",
+		"/C/Users/david/OneDrive/Desktop/Omondi/Home.html",
+		"/I/IN17.00021.18/KialoLogin.html",
+		"/I/IN17.00021.18/KialoSignup.html",
+		"/I/IN17.00021.18/Home Page Kialo.html",
+		"/I/IN17.00021.18/KialoPassReset.html",
+		"/C/Users/david/OneDrive/Desktop/Omondi/b.html",
+		"/C/Users/david/OneDrive/Desktop/Omondi/b.css",
+		"/C/Users/david/OneDrive/Desktop/Omondi/b.csc",
+		"/D/MUASYA/BIT 202/dave/project4.html",
+		"/D/MUASYA/BIT 202/dave/project3.html",
+		"/D/MUASYA/BIT 202/dave/project2.html",
+		"/D/MUASYA/BIT 202/dave/AboutUs.html",
+		"/D/MUASYA/BIT 202/dave/privacy.html",
+		"/D/MUASYA/BIT 202/dave/Project.html",
+		"/D/MUASYA/BIT 202/dave/project.css",
+		"/D/MUASYA/Sublime Text 3/travel.html",
+		"/D/MUASYA/BIT 202/dave/Ladies.html",
+		"/D/MUASYA/BIT 202/dave/trial.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "11.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
